@@ -1,0 +1,31 @@
+body {
+  font-family: Palatino;
+}
+
+#new-item-form{
+display:flex;
+align-items: center;
+flex-flow: column;
+box-shadow: 0 0 3px gray;
+margin: 20% 10%;
+border-radius: 10px;
+}
+
+
+
+.form-item{
+  display: inline-block;
+  padding: 5px;
+  border-radius: 10px;
+  height: 20px;
+  width: 100%;
+}
+
+.primary{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:50;
+  font-size: 20px;
+  margin-right: 10px;
+  
+}
+
