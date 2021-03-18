@@ -1,7 +1,8 @@
 # Reading_list
 
 <h2>The Events Lab </h2>
-Learning Objectives
+Learning Objectives:
+
 <p> - Be able to use a variety of event listener types</p>
 <p> - Be able to access values from form inputs on submit</p>
 <p> - Be able to attach events to a variety of DOM elements</p>
