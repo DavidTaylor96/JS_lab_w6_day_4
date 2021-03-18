@@ -10,4 +10,4 @@ Learning Objectives:
 
 <h3>Brief</h3>
 
-Your task is to create a Reading List app that allow a user to submit items they intend to read later and view them on the page. Using the start code, which has the html and css already provided, you will need to handle the form's submission and display the submitted details on the page.
+Your task is to create a Reading List app that allow a user to submit items they intend to read later and view them on the page. You should all so be able to delete all the items on that page. 
